@@ -63,10 +63,11 @@ class Program
         doIt(a1, totalAssets);
         Console.WriteLine("after doIt:");
         a1.Show();
-        Console.WriteLine($"total assets is now {totalAssets}"); 
+        Console.WriteLine($"total assets is now {totalAssets}");
 
-        
+
         Console.WriteLine("this writeline added on the MainChange branch");
+        Console.WriteLine("new comment");
 
        
 
